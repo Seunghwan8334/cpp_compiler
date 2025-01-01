@@ -1,3 +1,0 @@
-cmd에 
-compile.bat example.cpp
-를 실행
